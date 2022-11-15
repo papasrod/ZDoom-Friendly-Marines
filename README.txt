@@ -23,3 +23,20 @@ against enemies.
 - If there are any concerns or questions about my mod please leave a comment, any feedback is appreciated! :)
 
 Mod Author: papasrod
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse. Provide credit to the original author if you do use anything from this MOD, and feel free to
+ask about any of it. Permissions have been obtained from original authors 
+for any of their resources modified or included in this file. 
+
+You may distribute this file in any format. The original author has given permission to use of any modified or included content in this file to allow further distribution and modification.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
+
+Additional credits: id Software
